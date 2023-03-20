@@ -1,0 +1,26 @@
+html,
+body {
+    margin: 0;
+}
+
+.banner {
+    background: #e06a4b
+}
+
+.banner_content {
+    padding: 50px;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: left;
+}
+
+.banner_image {
+    width: 500px;
+}
+
+/* .banner_text  {
+    flex-grow: 1;
+    line-height: 1.4;
+    font-family: 'Quicksand', sans-serif;
+} */
