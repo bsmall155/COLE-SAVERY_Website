@@ -19,8 +19,19 @@ body {
     width: 500px;
 }
 
-/* .banner_text  {
-    flex-grow: 1;
-    line-height: 1.4;
+.sub_banner {
+    background: #aaee;
+}
+.sub_banner_content {
+    padding: 25px;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: right;
+}
+
+.sub_banner_text  {
+    flex-grow: 5;
+    line-height: 0;
     font-family: 'Quicksand', sans-serif;
-} */
+}
